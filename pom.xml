@@ -28,7 +28,6 @@
 
 	</properties>
        <!-- added nexus -->
-	<!--webhooks added-->
 	<dependencies>
 		
 		<dependency>
